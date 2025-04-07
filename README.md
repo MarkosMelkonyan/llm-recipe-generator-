@@ -10,7 +10,9 @@
 🚀 Use Cases
 
 ✔ Empty fridge? Get recipes for leftover ingredients
+
 ✔ Meal planning – Generate weekly menus
+
 ✔ Cooking classes – Quick recipe ideas for students
 ✔ Food bloggers – Endless content inspiration
 
